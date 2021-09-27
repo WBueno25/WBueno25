@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WBueno25
+- 👋 Hi, I’m @Willian-Nunes
 - 👀 I’m interested in Hardware develpment, IA, Async circuits, etc...
 - 🌱 I’m currently learning Python and IA
 - 💞️ I’m looking to collaborate on Hardware and Software Solutions
